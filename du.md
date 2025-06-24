@@ -2,6 +2,13 @@
 
 [//]: # (UTF-8)
 
+
+语法:
+```shell
+du [OPTION]... [FILE]...
+du [OPTION]... --files0-from=F
+```
+
 ## 容量单位
 
 | 参数                      | 功能                                                   |
